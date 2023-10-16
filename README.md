@@ -4,6 +4,7 @@
 ### Informacje na temat przedmiotu
 
 Prowadzący: Jacek Kałużny
+
 mail: duszekjk@gmail.com
 
 #### Wysyłanie zadań 
