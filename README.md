@@ -1,29 +1,17 @@
-# DJFZ 202/home/kuba/Syncthing/przedmioty/2021-01/djfz/djfz-2021/README.md1
 
-## Zajęcia 1 11.10.2021
+## Zajęcia 1
 
 ### Informacje na temat przedmiotu
 
-Prowadzący: mgr Jakub Pokrywka
-mail: jp40407@st.amu.edu.pl
+Prowadzący: Jacek Kałużny
+mail: duszekjk@gmail.com
 
-Dyżury: B1-46. Przed przyjściem proszę się umówić na spotkanie, najlepiej jest wysłać mi prywatną wiadomość na MS TEAMS.
 
- W celu zaliczenia przedmiotu należy zdobyć punkty za zadania na laboratoriach oraz zaliczyć kolokwium.
-Punktowane zadania będziemy wykonywać na laboratoriach oraz po nich (przed następnymi zajęciami), ich ilość determinuje ocenę.
-Oprócz tego należy zaliczyć kolokwium z wyrażeń regularnych na ostatnich zajęciach. Sam wynik kolokwium 
-nie będzie wpływał na ocenę, ale bez zdanego kolowkium nie da sie zaliczyć przedmiotu. Punktacja za zadania jest następująca:
-  - mniej niż 30 punktów - 2
-  - 30-34- 3
-  - 35-39- 3.5
-  - 40-44- 4
-  - 45-49- 4.5
-  - więcej niż 49- 5
 
 #### Wysyłanie zadań 
 
-Proszę stworzyć prywatne repozytorium na https://git.wmi.amu.edu.pl/ o nazwie djfz-2021-sNRINDEKSU oraz dać 
-prawa do odczytu użytkownikowi kubapok (prowadzący przedmiot). W NRINDEKSU proszę wpisać swój nr indeksu, np. djfz-2021-s123456.
+Proszę stworzyć prywatne repozytorium na https://git.wmi.amu.edu.pl/ o nazwie jfz-2023-sNRINDEKSU oraz dać 
+prawa do odczytu dla prowadzącego zajęcia. W NRINDEKSU proszę wpisać swój nr indeksu, np. jfz-2023-s123456.
 
 Następnie w swoim repozytorium proszę spullować niniejsze repozytorium: `git pull git@git.wmi.amu.edu.pl:kubapok/djfz-2021.git`
 W ten sposób będziemy aktualizować zadania co zajęcia.
@@ -42,11 +30,11 @@ Zadania robimy do końca soboty poprzedzającej zajęcia
 
 We własnym repozytorium:
 
-`git pull git@git.wmi.amu.edu.pl:kubapok/djfz-2021.git`
+`git pull `
 
 
 
-## Zajęcia 2 21.11.2021 Wyrażenia regularne
+## Zajęcia 2 Wyrażenia regularne
 
 Dokumentacja wyrażeń regularnych w python3: https://docs.python.org/3/library/re.html
 
