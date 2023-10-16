@@ -17,13 +17,6 @@ W ten sposób będziemy aktualizować zadania co zajęcia.
 
 Zadania robimy do końca soboty poprzedzającej zajęcia
 
-#### Aktualizacja repozytorium
-
-We własnym repozytorium:
-
-`git pull git@github.com:duszekjk/jezykiformalne.git`
-
-
 
 ## Zajęcia 2 Wyrażenia regularne
 
