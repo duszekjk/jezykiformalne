@@ -6,23 +6,13 @@
 Prowadzący: Jacek Kałużny
 mail: duszekjk@gmail.com
 
-
-
 #### Wysyłanie zadań 
 
 Proszę stworzyć prywatne repozytorium na https://git.wmi.amu.edu.pl/ o nazwie jfz-2023-sNRINDEKSU oraz dać 
 prawa do odczytu dla prowadzącego zajęcia. W NRINDEKSU proszę wpisać swój nr indeksu, np. jfz-2023-s123456.
 
-Następnie w swoim repozytorium proszę spullować niniejsze repozytorium: `git pull git@git.wmi.amu.edu.pl:kubapok/djfz-2021.git`
+Następnie w swoim repozytorium proszę spullować niniejsze repozytorium: `git pull git@github.com:duszekjk/jezykiformalne.git`
 W ten sposób będziemy aktualizować zadania co zajęcia.
-
-Proszę rozwiązać zadanie TASKX02 lub TASKX03 w zależności od numeru indeksu. W tym celu należy dodac plik `run.py`
-w odpowiednim katalogu. Za pomocą `run_reports.py` można sprwawdzić ilość punktów.
-
-Do repo proszę dodawać wyłącznie plik `run.py` w odpowiednim katalogu, chyba że w zadaniu jest zaznaczone inaczej.
-Proszę również nie modyfikować innych plików.
-
-Wszystkie zadania należy robić w terminie zaznaczonym w `description.txt`. Po terminie będę podawał punktację za pomocą USUSa w "sprawdziany".
 
 Zadania robimy do końca soboty poprzedzającej zajęcia
 
@@ -30,7 +20,7 @@ Zadania robimy do końca soboty poprzedzającej zajęcia
 
 We własnym repozytorium:
 
-`git pull `
+`git pull git@github.com:duszekjk/jezykiformalne.git`
 
 
 
