@@ -5,4 +5,3 @@ Do not use regular expressions, just the simplest capabilities
 of a programming language.
 
 POINTS: 1
-DEADLINE: 2021-10-24 23:59:59
