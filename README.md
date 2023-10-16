@@ -17,6 +17,8 @@ W ten sposób będziemy aktualizować zadania co zajęcia.
 
 Zadania robimy do końca soboty poprzedzającej zajęcia
 
+Rozwiązanie zapisujemy w pliku run.py
+
 
 ## Zajęcia 2 Wyrażenia regularne
 
