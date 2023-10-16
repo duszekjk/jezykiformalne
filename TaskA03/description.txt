@@ -1,0 +1,7 @@
+Write a program to find lines containing date from 1900 to 1999 in format '19XX r.' no matter what on the left or right of the expression.
+Note that part ' r.' is obligatory.
+Do not use regular expressions, just the simplest capabilities
+of a programming language.
+
+POINTS: 2
+DEADLINE: 2021-10-24 23:59:59

@@ -1,0 +1,7 @@
+Write a program to find all maximum substrings of digits.
+Return only these substrings separated by spaces in their order.
+Do not use regular expressions, just the simplest capabilities
+of a programming language.
+
+POINTS: 3
+DEADLINE: 2021-10-24 23:59:59
