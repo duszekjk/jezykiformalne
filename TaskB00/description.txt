@@ -6,6 +6,3 @@ If a string is accepted by the
 automaton, write YES, otherwise- write NO.
 
 The program is invoked like this: ./run.py fsa_description.arg < test1.in > test1.out
-
-POINTS: 3
-DEADLINE: 2020-11-07 23:59:00
