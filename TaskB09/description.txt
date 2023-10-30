@@ -8,6 +8,3 @@ Read strings from the standard input.
 If a string is accepted by the
 automaton, write YES, otherwise- write NO.
 
-POINTS: 3
-DEADLINE: 2020-11-07 23:59:00
-REMAINDER: 3/4
