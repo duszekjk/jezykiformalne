@@ -1,0 +1,11 @@
+Read a description of a deterministic finite-state automaton in the AT&T format
+(without weights) from the file in the first argument.
+
+Read strings from the standard input.
+If a string is accepted by the
+automaton, write YES, otherwise- write NO.
+
+The program is invoked like this: ./run.py fsa_description.arg < test1.in > test1.out
+
+POINTS: 3
+DEADLINE: 2020-11-07 23:59:00

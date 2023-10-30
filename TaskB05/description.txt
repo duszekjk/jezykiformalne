@@ -1,0 +1,12 @@
+Use a deterministic finite-state automaton (FSA) engine from the TaskB00.
+Create your own FSA description to check whether the line contains string '19DD', where D is a digit.
+Save it to fsa_description.arg file.
+
+FSA alphabet is '0123456789x'.
+
+Read strings from the standard input.
+If a string is accepted by the
+automaton, write YES, otherwise- write NO.
+
+POINTS: 2
+DEADLINE: 2020-11-07 23:59:00

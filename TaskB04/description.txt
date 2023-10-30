@@ -1,0 +1,14 @@
+Use a deterministic finite-state automaton (FSA) engine from the TaskE00.
+Create your own FSA description to check whether the string contains "0"
+odd number of times.
+Save it to fsa_description.arg file.
+
+The alphabet is "0", "1".
+
+Read strings from the standard input.
+If a string is accepted by the
+automaton, write YES, otherwise- write NO.
+
+POINTS: 2
+DEADLINE: 2020-11-07 23:59:00
+REMAINDER: 0/4
