@@ -2,6 +2,7 @@
 ## Zajęcia 1
 
 Copyright AMU Poznan
+
 Made by multiple people 
 
 
