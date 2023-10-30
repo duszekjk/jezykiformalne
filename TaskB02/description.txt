@@ -7,7 +7,3 @@ The alphabet is "0", "1".
 Read strings from the standard input.
 If a string is accepted by the
 automaton, write YES, otherwise- write NO.
-
-POINTS: 2
-DEADLINE: 2020-11-07 23:59:00
-REMAINDER: 2/4
