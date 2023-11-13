@@ -47,6 +47,3 @@ The program does not have to check whether the automaton is correct
 and whether it is deterministic and does not contain cycles.
 
 
-POINTS: 3
-DEADLINE: 2021-11-20 23:59:59
-REMAINDER: 1/3
