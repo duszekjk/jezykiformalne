@@ -1,0 +1,14 @@
+Use a non deterministic finite-state automaton (FSA) engine from the TaskC00.
+Create your own non deterministic FSA description to check whether the string second letter
+from right is 'b'.
+Don't use external files like in TaskF00 (description should be included in run file).
+
+The alphabet is "a", "b", "C"
+
+Read strings from the standard input.
+If a string is accepted by the 
+automaton, write YES, otherwise- write NO. 
+
+POINTS: 3
+DEADLINE: 2021-11-20 23:59:59
+REMAINDER: 0/3

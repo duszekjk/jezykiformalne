@@ -1,0 +1,25 @@
+Deterministic automaton III
+===========================
+
+Read a description of a finite-state automaton in the AT&T format
+(without weights) from the file in the first argument. Then, read strings from the
+standard input. If a string is
+accepted by the automated, write YES, a space and the string on the
+standard output, otherwise — write NO, a space and the string.
+
+If there is a non-determinism in the automaton, the first transition should be chosen.
+
+The automaton can contain epsilon transitions ("<eps>" instead of a
+character). They should be interpreted as follows: an epsilon
+transition can be used (without "eating" a character from the input),
+if there is no other transition applicable. You can assume that there
+is at most one epsilon transition from a given state and that there
+are no cycles with epsilon transition.
+
+Your program does not have to check whether the description is correct
+and whether the automaton is deterministic. You can assume that the
+automaton does not contain epsilon transitions.
+
+POINTS: 3
+DEADLINE: 2021-11-20 23:59:59
+REMAINDER: 0/3

@@ -1,0 +1,9 @@
+# automat akceptujący napis "ab*c" (b powielony dowolną liczbę razy) i "kot"
+0	1	a
+1	1	b
+1	2	c
+0	3	k
+3	4	o
+4	5	t
+2
+5

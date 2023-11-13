@@ -1,0 +1,10 @@
+TRUE a
+FALSE aa
+TRUE aaa
+TRUE abc
+TRUE aaabc
+FALSE aaabcd
+FALSE aabc
+FALSE abd
+TRUE ad
+FALSE aad

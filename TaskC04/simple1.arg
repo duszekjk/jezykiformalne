@@ -1,0 +1,5 @@
+# prosty automat akceptujący tylko napis "abc"
+0	1	a
+1	2	b
+2	3	c
+3

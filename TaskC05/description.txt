@@ -1,0 +1,52 @@
+Dictionary
+==========
+
+Your program should read a finite-state automaton from file in the first argument.
+The automaton is deterministic, you can assume it does not contain
+cycles.
+
+Each automaton path is labeled with a symbol sequence of the following form:
+
+<input word>;<description>
+
+e.g.:
+
+biały;ADJ
+dom;N
+piła;N
+piła;V
+stali;N
+stali;V
+stali;ADJ
+
+Next you should read words from the standard input.
+For each word, you should all automaton
+paths that begin a given word, the following symbol is ';'
+(semicolon), e.g. for the word 'dom' we are looking for paths
+beginning with 'dom;'. If there is no such path, the following message
+should be printed:
+
+<input word>;OOV
+
+For instance, for the automaton given above and the input:
+
+budynek
+dom
+piła
+
+we should get:
+
+budynek;OOV
+dom;N
+piła;N
+piła;V
+
+If there is more than one path for a given word, they should be given in alphabetical order.
+
+The program does not have to check whether the automaton is correct
+and whether it is deterministic and does not contain cycles.
+
+
+POINTS: 3
+DEADLINE: 2021-11-20 23:59:59
+REMAINDER: 1/3

@@ -1,0 +1,8 @@
+FALSE a
+FALSE ab
+TRUE abc
+FALSE abcd
+FALSE aaaaab
+TRUE abc
+FALSE xyz
+FALSE 0
