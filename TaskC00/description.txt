@@ -5,7 +5,7 @@ Read strings from the standard input.
 If a string is accepted by the
 automaton, write YES, otherwise- write NO.
 
-The program is invoked like this: python run.py test1.arg < test1.in > test1.out
+The program is invoked like this: python run.py test1.arg test1.in test1.out
 
 Note that not all transitions must be included in description.
 If no transition is given for the given state and letter, write NO.
