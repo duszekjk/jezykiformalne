@@ -19,6 +19,3 @@ Weights (if any) should be disregarded.
 
 NOTE 1. You can add `LANG=C sort` to your Bash wrapper for the write sort.
 
-POINTS: 3
-DEADLINE: 2021-11-20 23:59:59
-REMAINDER: 2/3
