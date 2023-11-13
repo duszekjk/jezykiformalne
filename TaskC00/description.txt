@@ -10,5 +10,3 @@ The program is invoked like this: python run.py test1.arg test1.in test1.out
 Note that not all transitions must be included in description.
 If no transition is given for the given state and letter, write NO.
 
-POINTS: 3
-DEADLINE: 2021-11-20 23:59:59
