@@ -1,0 +1,42 @@
+Nie koński łeb 2
+================
+
+Napisać program, który wczytuje kolejne wiersze ze standardowego
+wejścia i analizuje każdy wiersz (bez znaku końca wiersza). Należy w
+jak największym stopniu wykorzystać wyrażenia regularne (np. nie wolno
+użyć negacji jako operacji w danym języku programowania, jeśli da się
+to wyrazić w samym wyrażeniu regularnym). Tam, gdzie to możliwe należy
+użyć pojedynczego wyrażenia regularnego.
+
+Write a program, which loads consecutive lines from standard input
+and analyze every line (with no newline character). You should
+use regular expressions to the greatest extent possible (e.g. you
+can not use negation in the programming language if it is
+possible to express the same in regular expression). Wherever possible,
+use one regular expression.
+
+Dla każdego napisu należy sprawdzić, czy napis jest napisem złożonym z
+ciągu 5 wielkich liter i 4 wielkich liter oddzielonych spacją, które
+wstukane na standardowym telefonie dadzą inny numer niż uzyskane przez
+wstukanie napisu "HORSE HEAD". Zakładamy standardowe mapowanie liter na
+cyfry w telefonie ("ABC" - 2, "DEF" - 3 itd.)
+Jeśli napis spełnia tak określony warunek, należy wypisać na
+standardowym wyjściu 'yes', w przeciwnym razie — 'no'.
+
+For each string check, if the given string consists of
+5 capital letters and 4 capital letter separated by space,
+which written in old cellphone keyboard shows another number than typing 
+"HORSE HEAD". We assume standard old cellphone keyboard mapping
+("ABC" - 2, "DEF" - 3 etc.)
+If the string fulfills the condition, you should print 'yes' on the 
+standard output and 'no' otherwise.
+
+
+UWAGA! Zadanie przeznaczone dla studentów, których numer indeksu
+dzieli się przez 27 z resztą 13.
+
+Attention. The task is for students whose students id remainder of the division by 27 is 13.
+
+POINTS: 1
+DEADLINE: 2021-12-04 23:59:59
+REMAINDER: 13/27

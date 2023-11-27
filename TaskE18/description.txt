@@ -1,0 +1,41 @@
+Numer wiersza z Ewangelii
+=========================
+
+Napisać program, który wczytuje kolejne wiersze ze standardowego
+wejścia i analizuje każdy wiersz (bez znaku końca wiersza). Należy w
+jak największym stopniu wykorzystać wyrażenia regularne (np. nie wolno
+użyć negacji jako operacji w danym języku programowania, jeśli da się
+to wyrazić w samym wyrażeniu regularnym). Tam, gdzie to możliwe należy
+użyć pojedynczego wyrażenia regularnego.
+
+Write a program, which loads consecutive lines from standard input
+and analyze every line (with no newline character). You should
+use regular expressions to the greatest extent possible (e.g. you
+can not use negation in the programming language if it is
+possible to express the same in regular expression). Wherever possible,
+use one regular expression.
+
+Dla każdego napisu należy sprawdzić, czy napis jest oznaczeniem wiersza z
+Ewangelii (w rodzaju "Mt 17, 3"). Skróty Ewangelii - "Mt", "Mk", "Łk", "J",
+liczba rozdziałów odpowiednio - 28, 16, 24, 22. Wiersz liczba z zakresu
+1-99 (nie trzeba sprawdzać czy faktycznie tyle jest w poszczególnych
+rozdziałach).
+Jeśli napis spełnia tak określony warunek, należy wypisać na
+standardowym wyjściu 'yes', w przeciwnym razie — 'no'.
+
+For each string, check if the string is Evangel line number 
+(like "Mt 17, 3"). Evangel abbreviations - "Mt", "Mk", "Łk", "J",
+paragraphs numbers correspondingly 28, 16, 24, 22. Verset name is 1-99.
+You don't need to check if there are such versets in the real Evangel.
+If the string fulfills the condition, you should print 'yes' on the 
+standard output and 'no' otherwise.
+
+
+UWAGA! Zadanie przeznaczone dla studentów, których numer indeksu
+dzieli się przez 27 z resztą 18.
+
+Attention. The task is for students whose students id remainder of the division by 27 is 18.
+
+POINTS: 1
+DEADLINE: 2021-12-04 23:59:59
+REMAINDER: 18/27

@@ -1,0 +1,40 @@
+Podzielność przez cztery
+========================
+
+Napisać program, który wczytuje kolejne wiersze ze standardowego
+wejścia i analizuje każdy wiersz (bez znaku końca wiersza). Należy w
+jak największym stopniu wykorzystać wyrażenia regularne (np. nie wolno
+użyć negacji jako operacji w danym języku programowania, jeśli da się
+to wyrazić w samym wyrażeniu regularnym). Tam, gdzie to możliwe należy
+użyć pojedynczego wyrażenia regularnego.
+
+Write a program, which loads consecutive lines from standard input
+and analyze every line (with no newline character). You should
+use regular expressions to the greatest extent possible (e.g. you
+can not use negation in the programming language if it is
+possible to express the same in regular expression). Wherever possible,
+use one regular expression.
+
+Dla każdego napisu należy sprawdzić, czy zadany napis - zapisany
+dziesiętnie bądź szesnastkowo jest podzielny przez 4. Zapis szesnastkowy
+jest sygnalizowany przez prefiks "0x", cyfry szesnastkowe zapisywane jako
+wielkie litery. Liczba nie powinna zawierać zer nieznaczących.
+Jeśli napis spełnia tak określony warunek, należy wypisać na
+standardowym wyjściu 'yes', w przeciwnym razie — 'no'.
+
+For each string, check if the given string (written in hexadecimal
+or decimal system) is divisible by 4. A hexadecimal number
+is prefixed by "0x" and hexadecimal letters are capital letters.
+The number should not contain leading zeros.
+If the string fulfills the condition, you should print 'yes' on the 
+standard output and 'no' otherwise.
+
+
+UWAGA! Zadanie przeznaczone dla studentów, których numer indeksu
+dzieli się przez 27 z resztą 11.
+
+Attention. The task is for students whose students id remainder of the division by 27 is 11.
+
+POINTS: 1
+DEADLINE: 2021-12-04 23:59:59
+REMAINDER: 11/27
