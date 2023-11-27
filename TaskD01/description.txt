@@ -1,5 +1,3 @@
 Write a program to find lines containing the word "Hamlet".
 Do use regular expressions.
 
-POINTS: 1
-DEADLINE: 2021-12-04 23:59:59
