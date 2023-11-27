@@ -2,5 +2,3 @@ Write a program to find lines containing date from 1900 to 1999 in format '19XX 
 Note that part ' r.' is obligatory.
 Do use regular expressions.
 
-POINTS: 1
-DEADLINE: 2021-12-04 23:59:59
