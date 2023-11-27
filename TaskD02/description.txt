@@ -1,0 +1,7 @@
+Write a program to find lines containing the word "pies" separated by spaces.
+The word does not need to have space on the left if it is the line beginning or space on the right if it is line ending.
+Return line no matter of word "pies" casing.
+Do use regular expressions.
+
+POINTS: 1
+DEADLINE: 2021-12-04 23:59:59
