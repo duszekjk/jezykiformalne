@@ -1,0 +1,43 @@
+Wydobywanie nazwy pliku
+=======================
+
+Napisać program, który wczytuje kolejne wiersze ze standardowego
+wejścia i analizuje każdy wiersz (bez znaku końca wiersza). Należy w
+jak największym stopniu wykorzystać wyrażenia regularne (np. nie wolno
+użyć negacji jako operacji w danym języku programowania, jeśli da się
+to wyrazić w samym wyrażeniu regularnym). Tam, gdzie to możliwe należy
+użyć pojedynczego wyrażenia regularnego.
+
+Write a program, which loads consecutive lines from standard input
+and analyze every line (with no newline character). You should
+use regular expressions to the greatest extent possible (e.g. you
+can not use negation in the programming language if it is
+possible to express the same in regular expression). Wherever possible,
+use one regular expression.
+
+Dla każdego napisu należy wydobyć nazwę pliku z pełnej ścieżki. Należy
+uwzględnić dwie konwencje - (1) linuksową (ścieżka zaczyna się ukośnikiem,
+poszczególne jej elementy też oddzielane są ukośnikiem), (2) windowsową
+(ścieżka zaczyna się od nazwy dysku - wielka litera i dwukropek, potem
+następują katalogi oddzielonę odwróconym ukośnikiem), konwencje nie mogą
+się mieszać. Jako nazwa katalogu i pliku może wystąpić dowolny niepusty
+ciąg znaków niebędących ukośnikiem ani odwróconym ukośnikiem. Jeśli napis
+nie spełnia podanych warunków, należy wypisać "<NONE>".
+
+For each string extract filename from a full path.
+You should consider two conventions- (1) Linux (the path starts with
+the forward slash, elements are separated by a forward slash), (2)- windows
+(the path starts with disk name- capital letter, colon, then
+directories separated by a backward slash), conventions can not
+mix. The dir name or file name can be any non-empty
+sequence of string, which are not forward slash or backward slash.
+If the string doesn't fulfill the condition, you should print "<NONE>".
+
+UWAGA! Zadanie przeznaczone dla studentów, których numer indeksu
+dzieli się przez 5 z resztą 1.
+
+Attention. The task is for students whose students id remainder of the division by 5 is 1.
+
+POINTS: 2
+DEADLINE: 2021-12-04 23:59:59
+REMAINDER: 1/5

@@ -1,0 +1,38 @@
+Wydobywanie hashtagów
+=====================
+
+Napisać program, który wczytuje kolejne wiersze ze standardowego
+wejścia i analizuje każdy wiersz (bez znaku końca wiersza). Należy w
+jak największym stopniu wykorzystać wyrażenia regularne (np. nie wolno
+użyć negacji jako operacji w danym języku programowania, jeśli da się
+to wyrazić w samym wyrażeniu regularnym). Tam, gdzie to możliwe należy
+użyć pojedynczego wyrażenia regularnego.
+
+Write a program, which loads consecutive lines from standard input
+and analyze every line (with no newline character). You should
+use regular expressions to the greatest extent possible (e.g. you
+can not use negation in the programming language if it is
+possible to express the same in regular expression). Wherever possible,
+use one regular expression.
+
+Dla każdego napisu należy wydobyć wszystkie hashtagi twitterowe z napisu.
+Zakładamy, że hashtag to ciąg małych i wielkich liter oraz cyfr
+(niezaczynający się cyfrą) i poprzedzony znakiem '#'. Hashtagi należy
+wypisać oddzielone średnikami. Jeśli napis nie spełnia podanych warunków,
+należy wypisać "<NONE>".
+
+For each string, extract all Twitter hashtags from the string.
+We assume, that a hashtag is a sequence of lower case letters,
+capital case letters, and digits (can not start with a digit),
+starting with the '#' character. You should print hashtags separated by
+a comma.
+If the string doesn't fulfill the condition, you should print "<NONE>".
+
+UWAGA! Zadanie przeznaczone dla studentów, których numer indeksu
+dzieli się przez 5 z resztą 2.
+
+Attention. The task is for students whose students id remainder of the division by 5 is 2.
+
+POINTS: 2
+DEADLINE: 2021-12-04 23:59:59
+REMAINDER: 2/5
