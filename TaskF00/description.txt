@@ -1,0 +1,19 @@
+Napisać program, który wczytuje kolejne wiersze ze standardowego
+wejścia i analizuje każdy wiersz (bez znaku końca wiersza). Należy w
+jak największym stopniu wykorzystać wyrażenia regularne (np. nie wolno
+użyć negacji jako operacji w danym języku programowania, jeśli da się
+to wyrazić w samym wyrażeniu regularnym). Tam, gdzie to możliwe należy
+użyć pojedynczego wyrażenia regularnego.
+
+Write a program, which loads consecutive lines from standard input
+and analyze every line (with no newline character). You should
+use regular expressions to the greatest extent possible (e.g. you
+can not use negation in the programming language if it is
+possible to express the same in regular expression). Wherever possible,
+use one regular expression.
+
+Write a program to substitute all 4-digits string to 4-characters string.
+In the substituted string "0" should change to "a", "1" should change to "b", "2" should change to "c", etc.
+E.g. "1162" should change to "bbgc".
+In this task digit means [0-9] class.
+

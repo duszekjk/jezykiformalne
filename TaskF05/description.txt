@@ -1,0 +1,22 @@
+Napisać program, który wczytuje kolejne wiersze ze standardowego
+wejścia i analizuje każdy wiersz (bez znaku końca wiersza). Należy w
+jak największym stopniu wykorzystać wyrażenia regularne (np. nie wolno
+użyć negacji jako operacji w danym języku programowania, jeśli da się
+to wyrazić w samym wyrażeniu regularnym). Tam, gdzie to możliwe należy
+użyć pojedynczego wyrażenia regularnego.
+
+Write a program, which loads consecutive lines from standard input
+and analyze every line (with no newline character). You should
+use regular expressions to the greatest extent possible (e.g. you
+can not use negation in the programming language if it is
+possible to express the same in regular expression). Wherever possible,
+use one regular expression.
+
+Write the input line with the third word changed to "xxx" string.
+The number of "x" in the "xxx" string should be the same as the
+the number of characters in the input string.
+In this task, a word means a string of "\w" metacharacters.
+
+
+POINTS: 2
+DEADLINE: 2020-12-18 23:59:59

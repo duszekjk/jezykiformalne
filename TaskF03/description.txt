@@ -1,0 +1,24 @@
+Napisać program, który wczytuje kolejne wiersze ze standardowego
+wejścia i analizuje każdy wiersz (bez znaku końca wiersza). Należy w
+jak największym stopniu wykorzystać wyrażenia regularne (np. nie wolno
+użyć negacji jako operacji w danym języku programowania, jeśli da się
+to wyrazić w samym wyrażeniu regularnym). Tam, gdzie to możliwe należy
+użyć pojedynczego wyrażenia regularnego.
+
+Write a program, which loads consecutive lines from standard input
+and analyze every line (with no newline character). You should
+use regular expressions to the greatest extent possible (e.g. you
+can not use negation in the programming language if it is
+possible to express the same in regular expression). Wherever possible,
+use one regular expression.
+
+For each line write 2 digits separated by space "A B", where
+A stands for all words starting with lower case letter,
+B stands for all words starting with capital case letter,
+In this task word means a string of "\w" metacharacters,
+lower case letter is [a-ząćęłńóśźż] class,
+capital case letter is [A-ZĄĆĘŁŃÓŚŹŻ] class capital case letter is [A-ZĄĆĘŁŃÓŚŹŻ] class.
+
+
+POINTS: 1
+DEADLINE: 2020-12-18 23:59:59
