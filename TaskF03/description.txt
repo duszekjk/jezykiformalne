@@ -19,6 +19,3 @@ In this task word means a string of "\w" metacharacters,
 lower case letter is [a-ząćęłńóśźż] class,
 capital case letter is [A-ZĄĆĘŁŃÓŚŹŻ] class capital case letter is [A-ZĄĆĘŁŃÓŚŹŻ] class.
 
-
-POINTS: 1
-DEADLINE: 2020-12-18 23:59:59
