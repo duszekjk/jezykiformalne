@@ -16,5 +16,3 @@ Write the input line with the second digits string deleted.
 Digit is a [0-9] class.
 
 
-POINTS: 1
-DEADLINE: 2020-12-18 23:59:59
