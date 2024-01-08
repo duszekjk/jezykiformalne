@@ -18,5 +18,3 @@ letter to lower. In this task word means the string of "\w" metacharacters,
 lower case letter is [a-ząćęłńóśźż] class,
 capital case letter is [A-ZĄĆĘŁŃÓŚŹŻ] class.
 
-POINTS: 2
-DEADLINE: 2020-12-18 23:59:59
