@@ -17,6 +17,3 @@ The number of "x" in the "xxx" string should be the same as the
 the number of characters in the input string.
 In this task, a word means a string of "\w" metacharacters.
 
-
-POINTS: 2
-DEADLINE: 2020-12-18 23:59:59
