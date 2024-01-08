@@ -1,0 +1,8 @@
+Na wejściu dostajemy bajty tekstu UTF-8 zapisane w zwykłej postaci tekstu
+(Zatem obługujemy strumień wejścia z 0 i 1 w postaci tekstowej, a nie strumień bitów).
+
+Przekonwertuj plik na tekst UTF-8.
+
+POINTS: 2
+DEADLINE: 2021-01-15 23:59:59
+REMAINDER: 0/2

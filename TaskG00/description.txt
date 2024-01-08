@@ -1,0 +1,20 @@
+Use regular expressions to extract lines containing polish surnames.
+
+Download list of polish male and female surnames from here:
+
+
+* https://dane.gov.pl/pl/dataset/1681,nazwiska-osob-zyjacych-wystepujace-w-rejestrze-pesel/resource/35279/table?page=1&per_page=20&q=&sort=
+* https://dane.gov.pl/pl/dataset/1681,nazwiska-osob-zyjacych-wystepujace-w-rejestrze-pesel/resource/22817/table?page=1&per_page=20&q=&sort=
+
+
+Extract lines from stdin containing any of the surnames.
+Look only for surnames in lowercase.
+The surname does not have to be surrounded by space or any other special characters.
+Don't search for declined forms of surnames.
+
+Check either NFA (e.g. re python library) and DFA (google re2) and compare run speed.
+
+Submit solution based on DFA library.
+
+NOTE: You could extract the polish surnames list, save it to a file, then commit the file to your repository.
+NOTE: You may set max_mem to a higher value than the default in re2 library.

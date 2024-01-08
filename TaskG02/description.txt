@@ -1,0 +1,40 @@
+Use regular expressions to mark Polish first-person feminine forms.
+
+You should handle the following types of expressions:
+
+* first-person feminine past forms of verbs ("zrobiłam", "pisałam", etc.),
+* first-person singular feminine forms of the verb "być" ("be") combined
+  with singular feminine nominative forms of adjectives ("wysoka", "sprytna", etc.),
+  assuming that the form of the verb "być" is to the left of the adjective, not
+  more than 3 other words,
+* the verb "będę" combined with the past participle (i.e. 3rd person
+  feminine imperfect form, e.g. "robiła", pisała"), assuming
+  that "będę" is to the left of the adjective, not
+  more than 3 other words to the left of the participle OR directly
+  to the right of the participle ("robiła będę").
+
+The first-person feminine forms should be marked with curly brackets.
+You should mark only the feminine form. Do not mark the form of "być"
+(unless it clearly a feminine form, i.e. for "byłam").
+
+The match should be case-insensitive.
+
+The PoliMorf dictionary of inflected forms should be applied:
+http://zil.ipipan.waw.pl/PoliMorf?action=AttachFile&do=get&target=PoliMorf-0.6.7.tab.gz
+
+Suggested steps:
+
+1. Extract all the needed forms from the PoliMorf dictionary:
+
+* 1st person feminine past forms of verbs, unfortunately
+  this form is not directly present in the lexicon, you need
+  to add "m" to the 3rd person feminine form ("zrobiła" => "zrobiłam")
+* singular feminine nominative forms of adjectives
+* feminine past participle (3rd person feminine imperfect forms of verbs)
+
+You could do this using grep/cut commands — to obtain a simple text files
+with a word in each line. You can do this once and commit the 3 files to your repository.
+
+2. In your `run` script/program, read the 3 files and create a large
+expression with alternatives. Use a regexp library based on DFAs (determintistic
+finite-automatons).
