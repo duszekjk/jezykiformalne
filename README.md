@@ -10,7 +10,7 @@ Made by multiple people
 
 Prowadzący: Jacek Kałużny
 
-mail: duszekjk@gmail.com
+mail: jacek@duszekjk.com
 
 #### Wysyłanie zadań 
 
