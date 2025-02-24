@@ -1,9 +1,10 @@
 
-## Zajęcia 1
+## Kurs Języki Formalne i Złożość Obliczeniowa WMI AMU Poznań
 
 Copyright AMU Poznan
 
-Made by multiple people 
+Made by multiple people
+including Jakub Pokrywka, Jacek Kałużny and others
 
 
 ### Informacje na temat przedmiotu
@@ -14,12 +15,10 @@ mail: jacek@duszekjk.com
 
 #### Wysyłanie zadań 
 
-Proszę stworzyć prywatne repozytorium na https://git.wmi.amu.edu.pl/ o nazwie jfz-2023-sNRINDEKSU oraz dać 
-prawa do odczytu dla prowadzącego zajęcia. W NRINDEKSU proszę wpisać swój nr indeksu, np. jfz-2023-s123456.
+Przez podanie linku oraz wysłanie w komórce Send w Google Colab lub Jupiter Notebook. W przypadku Jupiter Notebook dodatkowo a maila.
 
-Następnie w swoim repozytorium proszę spullować niniejsze repozytorium: `git pull git@github.com:duszekjk/jezykiformalne.git`
-W ten sposób będziemy aktualizować zadania co zajęcia.
+Zadania robimy do kolejnych zajęć.
 
-Zadania robimy do końca soboty poprzedzającej zajęcia
 
-Rozwiązanie zapisujemy w pliku run.py
+Rozwiązanie każdego zadania ma być przypisane do zmiennej final_answer, która musi być typu strig.
+Wysyłamy poprzez wykonanie wszystkich komórek dla tego zadania (wczytaie opisu, następnie skrypt - rozwiązanie, następnie wyślij) w tej kolejności, bez uruchamiania innych komórek w międzyczasie. 
