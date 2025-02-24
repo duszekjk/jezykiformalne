@@ -4,4 +4,4 @@ Return line no matter of word "pies" casing.
 Do not use regular expressions, just the simplest capabilities
 of a programming language.
 
-POINTS: 1
+Provide the final answer based on the contents of the file 'polish_wiki_excerpt.in'.
