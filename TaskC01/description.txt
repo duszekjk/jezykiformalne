@@ -5,7 +5,8 @@ Don't use external files .arg like in TaskC00 (description should be included in
 
 The alphabet is "a", "b", "C"
 
-Read strings from the standard input.
+
 If a string is accepted by the 
 automaton, write YES, otherwise- write NO. 
 
+Answer should be based onn test.in
