@@ -18,3 +18,4 @@ are no cycles with epsilon transition.
 Your program does not have to check whether the description is correct
 and whether the automaton is deterministic. 
 
+Answer should be based on eps (.in, .arg)
