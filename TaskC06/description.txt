@@ -17,5 +17,5 @@ and whether it is deterministic and does not contain cycles.
 
 Weights (if any) should be disregarded.
 
-
+Answer should be based on medium.in
 
