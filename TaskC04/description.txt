@@ -16,6 +16,5 @@ is at most one epsilon transition from a given state and that there
 are no cycles with epsilon transition.
 
 Your program does not have to check whether the description is correct
-and whether the automaton is deterministic. You can assume that the
-automaton does not contain epsilon transitions.
+and whether the automaton is deterministic. 
 
