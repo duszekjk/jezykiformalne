@@ -46,4 +46,4 @@ If there is more than one path for a given word, they should be given in alphabe
 The program does not have to check whether the automaton is correct
 and whether it is deterministic and does not contain cycles.
 
-
+Answer should be based on medium
