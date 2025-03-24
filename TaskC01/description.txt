@@ -1,7 +1,7 @@
 Use a non deterministic finite-state automaton (FSA) engine from the TaskC00.
 Create your own non deterministic FSA description to check whether the string second letter
 from right is 'b'.
-Don't use external files like in TaskF00 (description should be included in run file).
+Don't use external files .arg like in TaskC00 (description should be included in colab).
 
 The alphabet is "a", "b", "C"
 
