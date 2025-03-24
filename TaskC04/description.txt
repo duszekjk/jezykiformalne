@@ -2,8 +2,7 @@ Deterministic automaton III
 ===========================
 
 Read a description of a finite-state automaton in the AT&T format
-(without weights) from the file in the first argument. Then, read strings from the
-standard input. If a string is
+(without weights) from the file .arg. Then, read strings from .in. If a string is
 accepted by the automated, write YES, a space and the string on the
 standard output, otherwise — write NO, a space and the string.
 
