@@ -1,7 +1,7 @@
 Dictionary
 ==========
 
-Your program should read a finite-state automaton from file in the first argument.
+Your program should read a finite-state automaton from file (.arg) in the first argument.
 The automaton is deterministic, you can assume it does not contain
 cycles.
 
@@ -19,7 +19,7 @@ stali;N
 stali;V
 stali;ADJ
 
-Next you should read words from the standard input.
+Next you should read words from file (.in).
 For each word, you should all automaton
 paths that begin a given word, the following symbol is ';'
 (semicolon), e.g. for the word 'dom' we are looking for paths
