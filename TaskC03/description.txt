@@ -1,10 +1,10 @@
 Use a non deterministic finite-state automaton (FSA) engine from the TaskC00.
 Create your own non deterministic FSA description to check whether the string
 contains "abc"
-Don't use external files like in TaskF00 (description should be included in run file).
 
 The alphabet is "a", "b", "c"
 
-Read strings from the standard input.
 If a string is accepted by the 
 automaton, write YES, otherwise- write NO. 
+
+Answer should be based on test.in
