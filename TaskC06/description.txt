@@ -2,12 +2,12 @@ Paths
 ======
 
 Your program should read a finite-state automaton from
-the standard input.
+file (.in).
 The automaton is deterministic, you can assume it does not contain
 cycles. The automaton alphabet is the set of Polish lower-case letters
 (English letters plus: ą, ć, ę, ł, ń, ó, ś, ź and ż).
 
-Your program should print, on standard output, all the paths of the
+Your program should return, all the paths of the
 automaton in alphabetical order (to be precise: order induced by byte
 codes of strings, not according to the standard Polish order). "Print
 a path" means print a text line containing all subsequent characters.
@@ -17,5 +17,5 @@ and whether it is deterministic and does not contain cycles.
 
 Weights (if any) should be disregarded.
 
-NOTE 1. You can add `LANG=C sort` to your Bash wrapper for the write sort.
+
 
