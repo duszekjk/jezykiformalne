@@ -25,13 +25,3 @@ For each string, you should check, if the string is a 9-digit phone number
 written in "NNN-NNN-NNN" or "NNN NNN NNN" format, which starts with "555".
 If the string fulfills the condition, you should print 'yes' on the 
 standard output and 'no' otherwise.
-
-
-UWAGA! Zadanie przeznaczone dla studentów, których numer indeksu
-dzieli się przez 10 z resztą 4.
-
-Attention. The task is for students whose students id remainder of the division by 10 is 4.
-
-POINTS: 1
-DEADLINE: 2021-12-04 23:59:59
-REMAINDER: 4/10
