@@ -26,12 +26,3 @@ xxx-xxx-xx-xx bądź xxx-xx-xx-xxx format. You don't need to consider a checksum
 If the string fulfills the condition, you should print 'yes' on the 
 standard output and 'no' otherwise.
 
-
-UWAGA! Zadanie przeznaczone dla studentów, których numer indeksu
-dzieli się przez 10 z resztą 3.
-
-Attention. The task is for students whose students id remainder of the division by 10 is 3.
-
-POINTS: 1
-DEADLINE: 2021-12-04 23:59:59
-REMAINDER: 3/10
