@@ -26,13 +26,3 @@ For each string, check if the given string consists of a sequence
 exclamation marks.
 If the string fulfills the condition, you should print 'yes' on the 
 standard output and 'no' otherwise.
-
-
-UWAGA! Zadanie przeznaczone dla studentów, których numer indeksu
-dzieli się przez 10 z resztą 8.
-
-Attention. The task is for students whose students id remainder of the division by 10 is 8.
-
-POINTS: 1
-DEADLINE: 2021-12-04 23:59:59
-REMAINDER: 8/10
