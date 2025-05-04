@@ -25,12 +25,3 @@ If the string is not a postal code, you should print "<NONE>".
 We assume that the postal code consists of 2 digits, minus character, and  3 digits.
 If the string doesn't fulfill the condition, you should print "<NONE>".
  
-
-UWAGA! Zadanie przeznaczone dla studentów, których numer indeksu
-dzieli się przez 10 z resztą 2.
-
-Attention. The task is for students whose students id remainder of the division by 10 is 2.
-
-POINTS: 1
-DEADLINE: 2021-12-04 23:59:59
-REMAINDER: 2/10
