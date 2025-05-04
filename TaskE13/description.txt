@@ -30,13 +30,3 @@ which written in old cellphone keyboard shows another number than typing
 ("ABC" - 2, "DEF" - 3 etc.)
 If the string fulfills the condition, you should print 'yes' on the 
 standard output and 'no' otherwise.
-
-
-UWAGA! Zadanie przeznaczone dla studentów, których numer indeksu
-dzieli się przez 27 z resztą 13.
-
-Attention. The task is for students whose students id remainder of the division by 27 is 13.
-
-POINTS: 1
-DEADLINE: 2021-12-04 23:59:59
-REMAINDER: 13/27
