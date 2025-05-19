@@ -1,11 +1,10 @@
-Napisać program, który wczytuje kolejne wiersze ze standardowego
-wejścia i analizuje każdy wiersz (bez znaku końca wiersza). Należy w
+Napisać program, który wczytuje kolejne wiersze i analizuje każdy wiersz (bez znaku końca wiersza). Należy w
 jak największym stopniu wykorzystać wyrażenia regularne (np. nie wolno
 użyć negacji jako operacji w danym języku programowania, jeśli da się
 to wyrazić w samym wyrażeniu regularnym). Tam, gdzie to możliwe należy
 użyć pojedynczego wyrażenia regularnego.
 
-Write a program, which loads consecutive lines from standard input
+Write a program, which loads consecutive lines
 and analyze every line (with no newline character). You should
 use regular expressions to the greatest extent possible (e.g. you
 can not use negation in the programming language if it is
